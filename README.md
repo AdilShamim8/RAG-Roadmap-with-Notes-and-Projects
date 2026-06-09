@@ -1451,26 +1451,47 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
-## 📄 License
+## License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📬 Contact
-
-- **GitHub:** [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/YOUR_LINKEDIN)
-- **Issues/Suggestions:** [Open an issue](https://github.com/YOUR_USERNAME/RAG-Roadmap/issues)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
+## Contact
+
+- Website: [Adil Shamim](https://adilshamim.me/)
+- GitHub: [Adil Shamim](https://github.com/AdilShamim8)
+- Create an issue in this repository for questions or suggestions
+
+---
+
+<p align="center">
+  <a href="https://github.com/AdilShamim8">
+    <img src="https://img.shields.io/badge/GitHub-AdilShamim8-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <span style="opacity:.6">&nbsp;</span>
+
+  <a href="https://www.linkedin.com/in/adilshamim8">
+    <img src="https://img.shields.io/badge/LinkedIn-AdilShamim8-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <span style="opacity:.6">&nbsp;</span>
+
+  <a href="https://www.kaggle.com/adilshamim8">
+    <img src="https://img.shields.io/badge/Kaggle-AdilShamim8-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile"/>
+  </a>
+  <span style="opacity:.6">&nbsp;</span>
+
+  <a href="https://x.com/adil_shamim8">
+    <img src="https://img.shields.io/badge/Twitter%2FX-@adil__shamim8-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X Profile"/>
+  </a>
+  <span style="opacity:.6">&nbsp;</span>
+
+  <a href="https://adilshamim8.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-AdilShamim8-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile"/>
+  </a>
+</p>
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-**⭐ If this roadmap helped you, please give it a star — it helps others discover it! ⭐**
-
-*Built with ❤️ for the RAG community*
+  
+⭐ **If you find this repository helpful, please consider giving it a star!** ⭐
 
 </div>
