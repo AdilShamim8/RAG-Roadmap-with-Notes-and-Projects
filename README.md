@@ -23,12 +23,6 @@
 
 ---
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/RAG-Roadmap&type=date)](https://star-history.com/#YOUR_USERNAME/RAG-Roadmap&Date)
-
----
-
 ## 🆕 What's New in 2026
 
 > **This roadmap has been updated for June 2026** to reflect the latest advancements in the RAG ecosystem, vector databases, embedding models, and agentic frameworks.
