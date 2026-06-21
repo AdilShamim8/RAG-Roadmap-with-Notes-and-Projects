@@ -1191,7 +1191,7 @@ RAG-Roadmap/
 
 ---
 
-## 💻 Code Examples
+## Code Examples
 
 ### End-to-End Basic RAG Pipeline
 
