@@ -42,7 +42,7 @@
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
 - [Overview](#-overview)
 - [2026 RAG Landscape](#-2026-rag-landscape)
@@ -67,7 +67,7 @@
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 This repository provides a **structured, step-by-step curriculum** for mastering Retrieval-Augmented Generation (RAG) — one of the most impactful patterns in production AI engineering today.
 
