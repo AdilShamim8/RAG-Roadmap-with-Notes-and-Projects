@@ -1457,41 +1457,32 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Contact
-
-- Website: [Adil Shamim](https://adilshamim.me/)
-- GitHub: [Adil Shamim](https://github.com/AdilShamim8)
-- Create an issue in this repository for questions or suggestions
-
----
-
+## Connect With Me
 <p align="center">
-  <a href="https://github.com/AdilShamim8">
-    <img src="https://img.shields.io/badge/GitHub-AdilShamim8-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  <a href="https://www.adilshamim.me/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <span style="opacity:.6">&nbsp;</span>
-
-  <a href="https://www.linkedin.com/in/adilshamim8">
-    <img src="https://img.shields.io/badge/LinkedIn-AdilShamim8-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
-  <span style="opacity:.6">&nbsp;</span>
-
-  <a href="https://www.kaggle.com/adilshamim8">
-    <img src="https://img.shields.io/badge/Kaggle-AdilShamim8-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile"/>
-  </a>
-  <span style="opacity:.6">&nbsp;</span>
-
-  <a href="https://x.com/adil_shamim8">
-    <img src="https://img.shields.io/badge/Twitter%2FX-@adil__shamim8-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X Profile"/>
-  </a>
-  <span style="opacity:.6">&nbsp;</span>
-
   <a href="https://adilshamim8.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-AdilShamim8-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/adilshamim8">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/adil_shamim8">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/adilshamim8">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/AdilShamim8">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
-<div align="center">
+
+<p align="center">
+</p>
+
   
-⭐**If you find this repository helpful, please consider giving it a star!**⭐
+⭐ If you find this repository helpful, please consider giving it a star! ⭐
 
 </div>
