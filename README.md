@@ -1498,9 +1498,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ <strong>If this repository helped you, consider giving it a star!</strong> ⭐
 
 </div>
-
-
-  
-⭐ If you find this repository helpful, please consider giving it a star! ⭐
-
-</div>
